@@ -15,10 +15,10 @@
 
 ### Clone from GitHub
 
-1. Copy SSH url GitHub Repo
+1. Copy SSH url from GitHub Repo
 2. Open terminal and type `git clone <past SSH URL>`
 3. Open file in VSCode
-4. Add the following lines
+4. Add the following line
 
 - `This line is being added from VSCode and is being pushed to GitHub.`
 
