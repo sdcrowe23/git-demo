@@ -20,8 +20,7 @@
 3. Open file in VSCode
 4. Add the following lines
 
-- `This line was added from VSC and is being pushed to GitHub.`
-- `I will add the line above to GitHub from VSC.`
+- `This line is being added from VSCode and is being pushed to GitHub.`
 
 5. Save your changes then type `git status` in the terminal. This tells us if there are files with recent changes.
 6. Next type `git add . && git commit -m "comment"`. "git add" tells git to add changes in the working directory to the staging directory, and "git commit" tells git to capture a snapshot of the projects currently staged changes.
