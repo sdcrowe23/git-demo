@@ -3,8 +3,8 @@
 ### Create Repo on GitHub
 
 1. Create a repository on GitHub
-2. Within the repo, create new file
-3. Added the lines below to file on GitHub
+2. Within the repo, create new file `test.txt`
+3. Added the follwing lines below to the file on GitHub
 
 - `This is dummy text`
 - `I might add another line of dummy text.. but idk.`
@@ -16,7 +16,7 @@
 ### Clone from GitHub
 
 1. Copy SSH url from GitHub Repo
-2. Open terminal and type `git clone <past SSH URL>`
+2. Open terminal and type `git clone <paste SSH URL>`
 3. Open file in VSCode
 4. Add the following line
 
