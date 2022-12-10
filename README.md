@@ -19,7 +19,6 @@
 2. Open terminal and type `git clone <paste SSH URL>`
 3. Open file in VSCode
 4. Add the following line
-5. IDK
 
 - `This line is being added from VSCode and is being pushed to GitHub.`
 
